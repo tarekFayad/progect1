@@ -1,2 +1,2 @@
 # progect1
-kgo
+it s my firs une
